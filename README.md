@@ -1,5 +1,5 @@
 # Super_Boss_Password_Generator
-A password generator for challenge 3.
+A password generator for challenge 3 and it's super boss!
 
 ## Description
 
